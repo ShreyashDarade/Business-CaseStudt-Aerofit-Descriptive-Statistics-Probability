@@ -74,3 +74,12 @@ The company collected the data on individuals who purchased a treadmill from the
     - Fitness Scale - 3 to 5 
     - Weekly Running Mileage - 100 miles and above
  
+## Contributors
+- **Shreyash Darade**: Data Analyst and Developer.
+
+Feel free to contribute by submitting a pull request or suggesting improvements!
+
+---
+
+## Contact
+For queries or feedback, reach out at: [shreyashdarade555@gmail.com](mailto:shreyashdarade555@gmail.com).
